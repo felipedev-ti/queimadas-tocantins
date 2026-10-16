@@ -79,3 +79,10 @@ rodar.py           # executa o pipeline e faz uma consulta de exemplo
 
 ## Fonte dos dados
 [BDQueimadas, INPE](https://terrabrasilis.dpi.inpe.br/queimadas/bdqueimadas/): dados públicos de focos de calor detectados por satélite.
+
+## Autor
+Desenvolvido por **Felipe**.
+
+* **Curso:** Engenharia de Software | [CEULP/ ULBRA]
+* **GitHub:** [felipedev-ti](https://github.com/felipedev-ti)
+* **LinkedIn:** [Felipe Busquets Carreira](https://www.linkedin.com/in/felipe-busquets-carreira-ba15093b4/)
